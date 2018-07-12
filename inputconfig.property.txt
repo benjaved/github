@@ -1,0 +1,4 @@
+# Comments
+SEARCH_STRING=  aws
+OUTPUT_COLUMN=  ESSENTIAL_SKILL,additional_skills,project_name,demand_id
+INPUT_COLUMN=  ESSENTIAL_SKILL,additional_skills      
